@@ -1,0 +1,13 @@
+torch==2.0
+langchain
+tiktoken 
+pypdf 
+faiss-cpu 
+transformers==4.30 
+InstructorEmbedding 
+sentence_transformers
+accelerate 
+bitsandbytes 
+xformers 
+einops
+git+https://github.com/huggingface/peft.git
